@@ -1,0 +1,22 @@
+{
+  "name": "private-tools-john",
+  "version": "1.0.0",
+  "description": "personnal tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnaddme/node.git%1B%5BD%1B%5BD%1B%5Bprivate-tools-john.git"
+  },
+  "keywords": [
+    "johnst"
+  ],
+  "author": "john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnaddme/node.git%1B%5BD%1B%5BD%1B%5Bprivate-tools-john/issues"
+  },
+  "homepage": "https://github.com/johnaddme/node.git%1B%5BD%1B%5BD%1B%5Bprivate-tools-john#readme"
+}
